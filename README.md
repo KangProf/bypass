@@ -21,6 +21,7 @@ CRACK FACEBOOK NO LOGIN
 [•] pip install mechanize
 [•] pip install bs4
 [•] git clone https://github.com/KangProf/bypass
+[•] cd bypass
 [•] python run.py
 ```
 #### Image
